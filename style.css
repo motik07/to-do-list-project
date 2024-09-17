@@ -1,0 +1,55 @@
+.bona-nova-font {
+  font-family: "Bona Nova SC" !important;
+}
+
+.marcellus-font {
+  font-family: "Marcellus SC" !important;
+}
+
+.vT323-font {
+  font-family: "VT323" !important;
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 4px #000000 !important;
+}
+
+.box-shadow {
+  box-shadow: 3px 1px 4px #00000087 !important;
+}
+
+.logo {
+    width:50px !important;
+    height:50px !important;
+}
+
+#id_sider_btn {
+  cursor: pointer !important;
+}
+
+#id_sider_btn > p {
+    transition: all 1000ms !important;
+}
+#id_sider_btn > p:hover {
+    color: #fcff66 !important;
+    text-shadow: 2px 1px 3px #0d0c8f !important;
+    translate: all 1000ms !important;
+}
+
+div.col.p-2.d-flex.flex-row.justify-content-center > nav > ul > li > a {
+    transition: all 1000ms !important;
+}
+div.col.p-2.d-flex.flex-row.justify-content-center > nav > ul > li > a:hover {
+    color: #fcff66 !important;
+    text-shadow: 2px 1px 3px #0d0c8f !important;
+    translate: all 1000ms !important;
+}
+
+div.offcanvas-body > nav > ul > li > a {
+    transition: all 1000ms !important;
+}
+div.offcanvas-body > nav > ul > li > a:hover {
+    color: #fcff66 !important;
+    text-shadow: 2px 1px 3px #0d0c8f !important;
+    translate: all 1000ms !important;
+}
